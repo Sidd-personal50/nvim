@@ -1,0 +1,2 @@
+# nvim
+Backup nvim config
